@@ -56,7 +56,7 @@ async function getCoingecko() {
         let time_left = 60;
         console.log("waiting for 60 seconds");
         while (time_left-- > 60) {
-          console.log(`remaining {} seconds ...`);
+          console.log(`remaining {} seconds ...`, time_left);
           await delay(1000);
         }
         coin_idx--;
