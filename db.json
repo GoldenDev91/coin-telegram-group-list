@@ -66577,7 +66577,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 12354,
+        "coingecko_rank": 12348,
         "coingecko_score": 0.029,
         "developer_score": 0,
         "community_score": 0,
@@ -66675,7 +66675,7 @@
         "sentiment_votes_up_percentage": 0,
         "sentiment_votes_down_percentage": 100,
         "market_cap_rank": null,
-        "coingecko_rank": 12341,
+        "coingecko_rank": 12338,
         "coingecko_score": 0.029,
         "developer_score": 0,
         "community_score": 0,
@@ -66773,7 +66773,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 12336,
+        "coingecko_rank": 12346,
         "coingecko_score": 0.029,
         "developer_score": 0,
         "community_score": 0,
@@ -66970,7 +66970,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 12335,
+        "coingecko_rank": 12349,
         "coingecko_score": 0.029,
         "developer_score": 0,
         "community_score": 0,
@@ -67166,7 +67166,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 11814,
+        "coingecko_rank": 11779,
         "coingecko_score": 0.229,
         "developer_score": 0,
         "community_score": 0,
@@ -67264,7 +67264,7 @@
         "sentiment_votes_up_percentage": 0,
         "sentiment_votes_down_percentage": 100,
         "market_cap_rank": null,
-        "coingecko_rank": 12347,
+        "coingecko_rank": 12343,
         "coingecko_score": 0.029,
         "developer_score": 0,
         "community_score": 0,
@@ -67363,7 +67363,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 11786,
+        "coingecko_rank": 11845,
         "coingecko_score": 0.229,
         "developer_score": 0,
         "community_score": 0,
@@ -67461,7 +67461,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 11783,
+        "coingecko_rank": 11802,
         "coingecko_score": 0.229,
         "developer_score": 0,
         "community_score": 0,
@@ -67559,7 +67559,7 @@
         "sentiment_votes_up_percentage": null,
         "sentiment_votes_down_percentage": null,
         "market_cap_rank": null,
-        "coingecko_rank": 11818,
+        "coingecko_rank": 11844,
         "coingecko_score": 0.229,
         "developer_score": 0,
         "community_score": 0,
@@ -67580,6 +67580,702 @@
         },
         "status_updates": [],
         "last_updated": "2022-10-13T20:30:39.635Z"
+      },
+      {
+        "id": "0-5x-long-kyber-network-token",
+        "symbol": "knchalf",
+        "name": "0.5X Long Kyber Network",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long Kyber Network Token (KNCHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of Kyber Network."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/KNCHALF",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/12026/thumb/683JEXMN_400x400.png?1596696818",
+          "small": "https://assets.coingecko.com/coins/images/12026/small/683JEXMN_400x400.png?1596696818",
+          "large": "https://assets.coingecko.com/coins/images/12026/large/683JEXMN_400x400.png?1596696818"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 12345,
+        "coingecko_score": 0.029,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 0,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-09-20T05:30:48.931Z"
+      },
+      {
+        "id": "0-5x-long-matic-token",
+        "symbol": "matichalf",
+        "name": "0.5X Long Matic Token",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long Matic Token (MATICHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of Matic."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/MATICHALF",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/11990/thumb/683JEXMN_400x400.png?1596688092",
+          "small": "https://assets.coingecko.com/coins/images/11990/small/683JEXMN_400x400.png?1596688092",
+          "large": "https://assets.coingecko.com/coins/images/11990/large/683JEXMN_400x400.png?1596688092"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 11823,
+        "coingecko_score": 0.229,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 1,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-10-18T04:28:46.491Z"
+      },
+      {
+        "id": "0-5x-long-privacy-index-token",
+        "symbol": "privhalf",
+        "name": "0.5X Long Privacy Index",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long Privacy Index Token (PRIVHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of Privacy Index."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/PRIVHALF",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/12017/thumb/683JEXMN_400x400__1_.png?1596693636",
+          "small": "https://assets.coingecko.com/coins/images/12017/small/683JEXMN_400x400__1_.png?1596693636",
+          "large": "https://assets.coingecko.com/coins/images/12017/large/683JEXMN_400x400__1_.png?1596693636"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 12341,
+        "coingecko_score": 0.029,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 0,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-10-14T16:02:03.163Z"
+      },
+      {
+        "id": "0-5x-long-swipe-token",
+        "symbol": "sxphalf",
+        "name": "0.5X Long Swipe",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long Swipe Token (SXPHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of Swipe."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/SXPHALF",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/12021/thumb/683JEXMN_400x400.png?1596694015",
+          "small": "https://assets.coingecko.com/coins/images/12021/small/683JEXMN_400x400.png?1596694015",
+          "large": "https://assets.coingecko.com/coins/images/12021/large/683JEXMN_400x400.png?1596694015"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 12353,
+        "coingecko_score": 0.029,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 0,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-10-22T04:00:32.226Z"
+      },
+      {
+        "id": "0-5x-long-theta-network-token",
+        "symbol": "thetahalf",
+        "name": "0.5X Long Theta Network",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long Theta Network Token (THETAHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of Theta Network."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/thetahalf",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/12027/thumb/683JEXMN_400x400.png?1596696952",
+          "small": "https://assets.coingecko.com/coins/images/12027/small/683JEXMN_400x400.png?1596696952",
+          "large": "https://assets.coingecko.com/coins/images/12027/large/683JEXMN_400x400.png?1596696952"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 12339,
+        "coingecko_score": 0.029,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 0,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-09-06T08:57:22.164Z"
+      },
+      {
+        "id": "0-5x-long-xrp-token",
+        "symbol": "xrphalf",
+        "name": "0.5X Long XRP Token",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": ""
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 0,
+            "contract_address": ""
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": null,
+        "categories": [
+          "Leveraged Token",
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0.5X Long XRP Token (XRPHALF) is an ERC20 token which seeks a return that corresponds to 0.5 times the daily return of XRP."
+        },
+        "links": {
+          "homepage": [
+            "https://ftx.com/tokens/XRPHALF",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "",
+            ""
+          ],
+          "twitter_screen_name": "",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": null,
+          "telegram_channel_identifier": "",
+          "subreddit_url": null,
+          "repos_url": {
+            "github": [],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/12029/thumb/683JEXMN_400x400.png?1596697580",
+          "small": "https://assets.coingecko.com/coins/images/12029/small/683JEXMN_400x400.png?1596697580",
+          "large": "https://assets.coingecko.com/coins/images/12029/large/683JEXMN_400x400.png?1596697580"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "sentiment_votes_up_percentage": null,
+        "sentiment_votes_down_percentage": null,
+        "market_cap_rank": null,
+        "coingecko_rank": 12342,
+        "coingecko_score": 0.029,
+        "developer_score": 0,
+        "community_score": 0,
+        "liquidity_score": 0,
+        "public_interest_score": 0.578,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 0,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 0,
+          "reddit_accounts_active_48h": 0,
+          "telegram_channel_user_count": null
+        },
+        "public_interest_stats": {
+          "alexa_rank": 5253,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-09-30T08:46:32.050Z"
+      },
+      {
+        "id": "0chain",
+        "symbol": "zcn",
+        "name": "0chain",
+        "asset_platform_id": "ethereum",
+        "platforms": {
+          "ethereum": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+          "polygon-pos": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30"
+        },
+        "detail_platforms": {
+          "ethereum": {
+            "decimal_place": 10,
+            "contract_address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78"
+          },
+          "polygon-pos": {
+            "decimal_place": 10,
+            "contract_address": "0x8bb30e0e67b11b978a5040144c410e1ccddcba30"
+          }
+        },
+        "block_time_in_minutes": 0,
+        "hashing_algorithm": "Delegated Proof-of-Stake",
+        "categories": [
+          "Storage",
+          "Ethereum Ecosystem"
+        ],
+        "public_notice": null,
+        "additional_notices": [],
+        "description": {
+          "en": "0Chain is a high performance decentralized storage network designed to eliminate business threats such as censorship, privacy liability and data breach. 0Chain helps entities achieve GDPR compliance, localization, tokenization and monetizes private data sharing. Our decentralized platform offers high performance, high quality of service, collaboration, localization, and streaming to address a broad spectrum of applications."
+        },
+        "links": {
+          "homepage": [
+            "https://0chain.net/",
+            "",
+            ""
+          ],
+          "blockchain_site": [
+            "https://etherscan.io/token/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+            "https://ethplorer.io/address/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+            "https://polygonscan.com/token/0x8bb30e0e67b11b978a5040144c410e1ccddcba30",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "official_forum_url": [
+            "",
+            "",
+            ""
+          ],
+          "chat_url": [
+            "",
+            "",
+            ""
+          ],
+          "announcement_url": [
+            "https://medium.com/0chain",
+            ""
+          ],
+          "twitter_screen_name": "0chain",
+          "facebook_username": "",
+          "bitcointalk_thread_identifier": 2670071,
+          "telegram_channel_identifier": "Ochain",
+          "subreddit_url": "https://www.reddit.com/r/0chain/",
+          "repos_url": {
+            "github": [
+              "https://github.com/0chain/"
+            ],
+            "bitbucket": []
+          }
+        },
+        "image": {
+          "thumb": "https://assets.coingecko.com/coins/images/4934/thumb/0_Black-svg.png?1600757954",
+          "small": "https://assets.coingecko.com/coins/images/4934/small/0_Black-svg.png?1600757954",
+          "large": "https://assets.coingecko.com/coins/images/4934/large/0_Black-svg.png?1600757954"
+        },
+        "country_origin": "",
+        "genesis_date": null,
+        "contract_address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+        "sentiment_votes_up_percentage": 66.67,
+        "sentiment_votes_down_percentage": 33.33,
+        "market_cap_rank": 940,
+        "coingecko_rank": 409,
+        "coingecko_score": 30.174,
+        "developer_score": 45.177,
+        "community_score": 29.334,
+        "liquidity_score": 3.624,
+        "public_interest_score": 0.002,
+        "community_data": {
+          "facebook_likes": null,
+          "twitter_followers": 29239,
+          "reddit_average_posts_48h": 0,
+          "reddit_average_comments_48h": 0,
+          "reddit_subscribers": 1117,
+          "reddit_accounts_active_48h": 14,
+          "telegram_channel_user_count": 3589
+        },
+        "public_interest_stats": {
+          "alexa_rank": 887000,
+          "bing_matches": null
+        },
+        "status_updates": [],
+        "last_updated": "2022-10-23T05:39:37.782Z"
       }
     ]
   }
