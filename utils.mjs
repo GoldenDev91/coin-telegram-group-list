@@ -10,20 +10,19 @@ import { JSONFile } from "lowdb/node";
  */
 export const delay = (ms) => new Promise((res) => setTimeout(res, ms));
 
-export const load_db = async () => {
-  const __dirname = dirname(fileURLToPath(import.meta.url));
+export const load_db = async (dbName) => {
+  //const __dirname = dirname(fileURLToPath(import.meta.url));
 
-  const dbjson = join(__dirname, "db.json");
+  //const dbjson = join(__dirname+'\\db', dbName + '.json');
+  const dbjson = `./db/${dbName}.json`;
   const adapter = new JSONFile(dbjson);
   const db = new Low(adapter);
   await db.read();
   db.data ||= {
-    coingecko: {
-      list: [],
-      coins: [],
-      telegrams: [],
-      discords: [],
-    },
+    list: [],
+    coins: [],
+    telegrams: [],
+    discords: [],
   };
   return db;
 };
